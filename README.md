@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I am a UX Designer & Engineer with a strong interest in Design Systems and open source projects.
+
+Check out my recent project: https://design-system-guide.netlify.app/docs/intro
+
+
+
 <!--
 **huynhicode/huynhicode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
