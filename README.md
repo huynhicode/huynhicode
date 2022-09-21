@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a UX Designer & Engineer with a strong interest in Design Systems and open source projects.
+I am a UX Designer & Engineer who is passionate about design systems, open source projects, and building beautiful & functional products.
 
 Check out my recent project: https://design-system-guide.netlify.app/docs/intro
 
