@@ -2,7 +2,7 @@
 
 I am a UX Designer & Engineer who is passionate about design systems, open source projects, and building beautiful & functional products.
 
-Check out my recent project: https://design-system-guide.netlify.app/docs/intro
+Check out my latest project: https://design-system-guide.netlify.app/docs/intro.
 
 
 
