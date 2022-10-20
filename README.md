@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-https://steph-huynh-portfolio.netlify.app/docs/intro/
-
 
 <!--
 **huynhicode/huynhicode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
