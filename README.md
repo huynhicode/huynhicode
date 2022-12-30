@@ -6,6 +6,7 @@ I am a big fan of open source technology and design systems.
 
 Here are a few of my favorite open source tools:
 
+- 💟 [Medusa](https://medusajs.com/) - Shopify alternative
 - 🧜‍♀️ [Mermaid](https://mermaid.js.org/) - diagramming and charting tool
 - 👩🏻‍💻 [Microsoft FAST](https://www.fast.design/) - built on web components
 - 🍕 [Open Sauced](https://opensauced.pizza/) - open source intelligence platform
