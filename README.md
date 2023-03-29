@@ -18,6 +18,16 @@ Here are some great design system resources:
 - [Design Systems Repo](https://designsystemsrepo.com/design-systems/)
 - [Design System on Figma Community](https://www.designsystems.com/open-design-systems/)
 
+Book recommendations:
+
+- The Effective Engineer by Edmond Lau
+- Build Better Products by Laura Klein
+- The User Experience Team of One by Leah Buley
+- Design for How People Think by John Whalen, PhD
+- Articulating Design Decisions by Tom Greever
+- Frontend Architecture for Design Systems by Micah Godbolt
+- Engineering Management for the Rest of Us by Sarah Drasner
+
 <!--
 **huynhicode/huynhicode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
