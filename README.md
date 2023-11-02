@@ -27,6 +27,9 @@ Some book recommendations:
   - Don't Make Me Think by Steve Krug
   - The User Experience Team of One by Leah Buley
   - Build Better Products by Laura Klein
+- **Other**:
+  - An Astronaut's Guide to Life on Earth by Col. Chris Handfield
+  - Project Hail Mary by Andy Weir
 
 <!--
 **huynhicode/huynhicode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
