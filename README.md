@@ -1,6 +1,6 @@
-### Hello 👋
+### Hello 💃🏻
 
-I'm a UX Engineer with a deep commitment to enhancing digital experiences. My role involves seamlessly merging the worlds of design and engineering to create user-friendly interfaces. I specialize in crafting designs that not only look visually appealing but also function flawlessly. I'm passionate about understanding user behavior through research, allowing me to iterate on designs and ensure that products and websites are not just engaging but also accessible to a diverse user base. My expertise lies in bridging the gap between design and development, ultimately delivering interactive, user-centered solutions that elevate the overall digital experience.
+I'm a UX Engineer with a deep commitment to enhancing digital experiences. My role involves bridging the gap between design and development, ultimately delivering interactive, user-centered solutions that elevate the overall digital experience.
 
 I am a big fan of open-source technology; here are a few of my favorite tools:
 
@@ -10,26 +10,48 @@ I am a big fan of open-source technology; here are a few of my favorite tools:
 - 🍕 [Open Sauced](https://opensauced.pizza/) - open source intelligence platform
 - 💅🏻 [PenPot](https://penpot.app/) - design & prototyping platform
 
-Some book recommendations:
+<hr />
 
-- **Mermaid**:
+📚 **Some book recommendations**
+
+- 🧜‍♀️ **Mermaid**
   - The Official Guide to Mermaid.js by Knut Sveidqvist & Ashish Jain
-- **Design**:
+    
+- 💅🏻 **Design**
   - The Design of Everyday Things by Don Norman
-  - Design for How People Think by John Whalen, PhD
   - Articulating Design Decisions by Tom Greever
-- **Engineering**:
+  - How Design Makes the World by Scott Berkun
+    
+- 👩🏻‍💻 **Engineering**
+  - The Software Engineer's Guidebook by Gergely Orosz
   - The Effective Engineer by Edmond Lau
   - Engineering Management for the Rest of Us by Sarah Drasner
-  - Frontend Architecture for Design Systems by Micah Godbolt
-- **UX**:
+    
+- 🩷 **UX**
   - Laws of UX by Jon Yablonski
   - Don't Make Me Think by Steve Krug
   - The User Experience Team of One by Leah Buley
+    
+- 🏗️ **Product**
+  - Design for How People Think by John Whalen, PhD
   - Build Better Products by Laura Klein
-- **Other**:
+    
+- 👩‍🎨 **Design Systems**
+  - Design That Scales by Dan Mall
+  - Frontend Architecture for Design Systems by Micah Godbolt
+    
+- 👩‍🚀 **Other**
   - An Astronaut's Guide to Life on Earth by Col. Chris Handfield
   - Project Hail Mary by Andy Weir
+  - Holy Cow by David Duchovny
+
+<hr /> 
+
+📺 **Some TV show recommendations**
+
+  - The Good Place
+  - The Last of Us
+  - Ozark
 
 <!--
 **huynhicode/huynhicode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
