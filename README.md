@@ -49,6 +49,7 @@ I am a big fan of open-source technology; here are a few of my favorite tools:
 
 📺 **Some TV show recommendations**
 
+  - Better Call Saul
   - The Good Place
   - The Last of Us
   - Ozark
