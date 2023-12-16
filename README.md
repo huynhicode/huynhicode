@@ -1,8 +1,8 @@
 ### Hello 💃🏻
 
-I'm a UX Engineer with a deep commitment to enhancing digital experiences. My role involves bridging the gap between design and development, ultimately delivering interactive, user-centered solutions that elevate the overall digital experience.
+I am a UX Engineer deeply dedicated to improving digital interactions. My responsibilities revolve around connecting design and development, ensuring the delivery of engaging, user-focused solutions that enhance the overall digital experience.
 
-I am a big fan of open-source technology; here are a few of my favorite tools:
+I am a big fan of open-source technology - here are a few of my favorite tools:
 
 - 🧜‍♀️ [Mermaid](https://mermaid.js.org/) - diagramming and charting tool
 - 👩🏻‍💻 [Microsoft FAST](https://www.fast.design/) - built on web components
@@ -17,7 +17,7 @@ I am a big fan of open-source technology; here are a few of my favorite tools:
 - 🧜‍♀️ **Mermaid**
   - The Official Guide to Mermaid.js by Knut Sveidqvist & Ashish Jain
     
-- 💅🏻 **Design**
+- 🎨 **Design**
   - The Design of Everyday Things by Don Norman
   - Articulating Design Decisions by Tom Greever
   - How Design Makes the World by Scott Berkun
@@ -26,6 +26,10 @@ I am a big fan of open-source technology; here are a few of my favorite tools:
   - The Software Engineer's Guidebook by Gergely Orosz
   - The Effective Engineer by Edmond Lau
   - Engineering Management for the Rest of Us by Sarah Drasner
+ 
+- 💅 UI
+  - Practical UI by Adham Dannaway
+  - Refactoring UI by Tailwind Labs Inc. 
     
 - 🩷 **UX**
   - Laws of UX by Jon Yablonski
@@ -43,16 +47,6 @@ I am a big fan of open-source technology; here are a few of my favorite tools:
 - 👩‍🚀 **Other**
   - An Astronaut's Guide to Life on Earth by Col. Chris Handfield
   - Project Hail Mary by Andy Weir
-  - Holy Cow by David Duchovny
-
-<hr /> 
-
-📺 **Some TV show recommendations**
-
-  - Better Call Saul
-  - The Good Place
-  - The Last of Us
-  - Ozark
 
 <!--
 **huynhicode/huynhicode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
