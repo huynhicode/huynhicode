@@ -1,6 +1,6 @@
 ### Hello 💃🏻
 
-I am a UX Engineer deeply dedicated to improving digital interactions. My responsibilities revolve around connecting design and development, ensuring the delivery of engaging, user-focused solutions that enhance the overall digital experience.
+I'm a UX Engineer with a deep commitment to enhancing digital experiences. I’m passionate about bridging the gap between design and development - and ultimately delivering interactive, user-centered solutions that elevate the overall digital experience.
 
 I am a big fan of open-source technology - here are a few of my favorite tools:
 
