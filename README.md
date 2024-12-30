@@ -4,11 +4,13 @@ I'm a UX Engineer with a deep commitment to enhancing digital experiences. I’m
 
 I am a big fan of open-source technology - here are a few of my favorite tools:
 
+- 👻 [Ghost](https://ghost.org/about/) - professional publishing
 - 🧜‍♀️ [Mermaid](https://mermaid.js.org/) - diagramming and charting tool
 - 👩🏻‍💻 [Microsoft FAST](https://www.fast.design/) - built on web components
 - 💟 [Medusa](https://medusajs.com/) - digital commerce
 - 🍕 [Open Sauced](https://opensauced.pizza/) - open source intelligence platform
 - 💅🏻 [PenPot](https://penpot.app/) - design & prototyping platform
+- 🦔 [PostHog](https://posthog.com/) - open-source web & product analytics
 
 <hr />
 
