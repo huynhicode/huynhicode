@@ -8,9 +8,9 @@ I am a big fan of open-source technology - here are a few of my favorite tools:
 - 🧜‍♀️ [Mermaid](https://mermaid.js.org/) - diagramming and charting tool
 - 👩🏻‍💻 [Microsoft FAST](https://www.fast.design/) - built on web components
 - 💟 [Medusa](https://medusajs.com/) - digital commerce
-- 🍕 [Open Sauced](https://opensauced.pizza/) - open source intelligence platform
+- 🍕 [Open Sauced](https://opensauced.pizza/) - intelligence platform
 - 💅🏻 [PenPot](https://penpot.app/) - design & prototyping platform
-- 🦔 [PostHog](https://posthog.com/) - open-source web & product analytics
+- 🦔 [PostHog](https://posthog.com/) - web & product analytics
 
 <hr />
 
