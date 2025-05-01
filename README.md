@@ -1,23 +1,38 @@
 ### Hello 💃🏻
 
-I'm a UX Engineer with a deep commitment to enhancing digital experiences. I’m passionate about bridging the gap between design and development - and ultimately delivering interactive, user-centered solutions that elevate the overall digital experience.
+I'm an experienced UX Engineer with expertise at the intersection of design and engineering. I excel in building scalable, reusable components, authoring comprehensive documentation, and optimizing user and developer experiences. I'm also an active contributor to open-source projects.
 
-I am a big fan of open-source technology - here are a few of my favorite tools:
+Some OSS favorites:
 
 - 👻 [Ghost](https://ghost.org/about/) - professional publishing
-- 🧜‍♀️ [Mermaid](https://mermaid.js.org/) - diagramming and charting tool
-- 👩🏻‍💻 [Microsoft FAST](https://www.fast.design/) - built on web components
+- 🏗️ [Material UI](https://mui.com/material-ui/) -  React component library
+- 🧜‍♀️ [Mermaid](https://mermaid.js.org/) - diagramming and charting
+- 👩🏻‍💻 [Microsoft FAST](https://www.fast.design/) - web components
 - 💟 [Medusa](https://medusajs.com/) - digital commerce
-- 🍕 [Open Sauced](https://opensauced.pizza/) - intelligence platform
-- 💅🏻 [PenPot](https://penpot.app/) - design & prototyping platform
+- 🍕 [Open Sauced](https://opensauced.pizza/) - OSS engineering analytics
+- 💅🏻 [PenPot](https://penpot.app/) - design & prototyping
 - 🦔 [PostHog](https://posthog.com/) - web & product analytics
+- 🎨 [Tailwind](https://tailwindcss.com/) - CSS framework
+
+**Fun and free resources to help you level up your skills**
+
+- [Boot.dev](https://www.boot.dev) - back-end development
+- [Flexbox Froggy](https://flexboxfroggy.com/) - CSS flexbox
+- [FreeCodeCamp](https://www.freecodecamp.org/) - web development 🐐
+- [TailwindBattle](https://www.tailwindbattle.com/daily) - Tailwind CSS
+- [VIM Adventures](https://vim-adventures.com/) - VIM
+
+**Blogs**
+- [Being Glue by Tanya Reilly](https://www.noidea.dog/glue)
+- [Oh Shit, Git!?! by Katie Sylor-Miller](https://ohshitgit.com/)
+
+**UX Engineering**
+- [What Does a UX Engineer Do, Exactly? A Little Bit of Everything by Erik Haddad](https://medium.com/google-design/why-full-stack-developers-make-the-best-ux-engineers-1ddbff6c1739)
+- [What is a UX Engineer? User Experience Engineer Role Explained by Natalie Pina](https://www.freecodecamp.org/news/what-is-a-ux-engineer/)
 
 <hr />
 
-📚 **Some book recommendations**
-
-- 🧜‍♀️ **Mermaid**
-  - The Official Guide to Mermaid.js by Knut Sveidqvist & Ashish Jain
+📚 **Some recommended reading**
     
 - 🎨 **Design**
   - The Design of Everyday Things by Don Norman
@@ -45,6 +60,9 @@ I am a big fan of open-source technology - here are a few of my favorite tools:
 - 👩‍🎨 **Design Systems**
   - Design That Scales by Dan Mall
   - Frontend Architecture for Design Systems by Micah Godbolt
+ 
+- 🧜‍♀️ **Mermaid**
+  - The Official Guide to Mermaid.js by Knut Sveidqvist & Ashish Jain
     
 - 👩‍🚀 **Other**
   - An Astronaut's Guide to Life on Earth by Col. Chris Handfield
