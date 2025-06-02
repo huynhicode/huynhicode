@@ -1,8 +1,24 @@
-### Hello 💃🏻
+### Hello, I'm Steph
 
-I'm an experienced UX Engineer with expertise at the intersection of design and engineering. I excel in building scalable, reusable components, authoring comprehensive documentation, and optimizing user and developer experiences. I'm also an active contributor to open-source projects.
+**About me:**
 
-Some OSS favorites:
+Experienced UX Engineer with a strong foundation in both design and front-end development. Proficient in building scalable, reusable components and crafting intuitive user experiences. Skilled in cross-functional collaboration, documentation, and contributing to open-source projects.
+
+**Technical skills:**
+
+Frontend: React, Svelte, JavaScript, TypeScript
+
+UI Libraries: Material UI, Tailwind CSS, Skeleton
+
+Design Tools: Figma, Balsamiq
+
+Documentation: VitePress, Docusaurus
+
+Other: A/B Testing, SEO, Domain Management
+
+----
+
+**OSS favorites:**
 
 - 👻 [Ghost](https://ghost.org/about/) - professional publishing
 - 🏗️ [Material UI](https://mui.com/material-ui/) -  React component library
@@ -14,13 +30,13 @@ Some OSS favorites:
 - 🦔 [PostHog](https://posthog.com/) - web & product analytics
 - 🎨 [Tailwind](https://tailwindcss.com/) - CSS framework
 
-**Fun and free resources to help you level up your skills**
+**Fun and free resources to level up your skills**
 
 - [Boot.dev](https://www.boot.dev) - back-end development
 - [Flexbox Froggy](https://flexboxfroggy.com/) - CSS flexbox
 - [FreeCodeCamp](https://www.freecodecamp.org/) - web development 🐐
 - [TailwindBattle](https://www.tailwindbattle.com/daily) - Tailwind CSS
-- [VIM Adventures](https://vim-adventures.com/) - VIM
+- [VIM Adventures](https://vim-adventures.com/) - VIM game
 
 **Blogs**
 - [Being Glue by Tanya Reilly](https://www.noidea.dog/glue)
@@ -32,7 +48,7 @@ Some OSS favorites:
 
 <hr />
 
-📚 **Some recommended reading**
+📚 **Recommended reading**
     
 - 🎨 **Design**
   - The Design of Everyday Things by Don Norman
@@ -44,7 +60,7 @@ Some OSS favorites:
   - The Effective Engineer by Edmond Lau
   - Engineering Management for the Rest of Us by Sarah Drasner
  
-- 💅 UI
+- 💅 **UI**
   - Practical UI by Adham Dannaway
   - Refactoring UI by Tailwind Labs Inc. 
     
@@ -67,6 +83,7 @@ Some OSS favorites:
 - 👩‍🚀 **Other**
   - An Astronaut's Guide to Life on Earth by Col. Chris Handfield
   - Project Hail Mary by Andy Weir
+  - Severance television series
 
 <!--
 **huynhicode/huynhicode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
