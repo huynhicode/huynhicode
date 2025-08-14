@@ -1,24 +1,20 @@
-### Hello, I'm Steph
+### I'm Steph 🌼
 
 **About me:**
 
-Experienced UX Engineer with a strong foundation in both design and front-end development. Proficient in building scalable, reusable components and crafting intuitive user experiences. Skilled in cross-functional collaboration, documentation, and contributing to open-source projects.
+I’m a UX Engineer with a strong foundation in frontend development and user-centered design. I specialize in building accessible, component-driven interfaces and translating design systems into scalable, production-ready code.
 
-**Technical skills:**
+I’m passionate about bridging the gap between design and engineering, delivering seamless, performant, and inclusive experiences. I thrive in environments where I can collaborate closely with designers and developers to create intuitive user experiences while maintaining high-quality, reusable code.
 
-Frontend: React, Svelte, JavaScript, TypeScript
+Some highlights of my work:
 
-UI Libraries: Material UI, Tailwind CSS, Skeleton
-
-Design Tools: Figma, Balsamiq
-
-Documentation: VitePress, Docusaurus
-
-Other: A/B Testing, SEO, Domain Management
-
+- Built and maintained design system components that scale across web applications.
+- Developed accessible UI interfaces with Svelte, TypeScript, Tailwind, and Storybook.
+- Contributed to open-source projects and documentation, improving UX for both users and developers.
+  
 ----
 
-**OSS favorites:**
+**Some OSS Projects to support**
 
 - 👻 [Ghost](https://ghost.org/about/) - professional publishing
 - 🏗️ [Material UI](https://mui.com/material-ui/) -  React component library
@@ -48,7 +44,7 @@ Other: A/B Testing, SEO, Domain Management
 
 <hr />
 
-📚 **Recommended reading**
+📚 **Some good reads**
     
 - 🎨 **Design**
   - The Design of Everyday Things by Don Norman
