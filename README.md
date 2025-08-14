@@ -1,6 +1,6 @@
 ### I'm Steph 🌼
 
-**About me:**
+**About me**
 
 I’m a UX Engineer with a strong foundation in frontend development and user-centered design. I specialize in building accessible, component-driven interfaces and translating design systems into scalable, production-ready code.
 
