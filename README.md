@@ -1,10 +1,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=huynhicode&label=Profile%20views&color=0e75b6&style=flat" alt="huynhicode" /> </p>
 
-# Hi, I'm Steph
+# Steph Huynh - UX Engineer
 
-**UX Engineer bridging design and code.**
+**Bridging design and code**
 
-I build accessible, high‑performance interfaces and design systems, turning early ideas into shippable UI.
+Hi, I'm Steph. I build interactive design systems and UI components that bridge design and code, focusing on usability, accessibility, and maintainability.  I aim to create systems that are not only functional but also adaptable and easy to scale. 
+
+I enjoy exploring new tools, refining workflows, and finding ways to turn design ideas into polished, working interfaces.
 
 <br />
 
