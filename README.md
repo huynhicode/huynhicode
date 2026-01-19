@@ -2,11 +2,29 @@
 
 # Steph Huynh - UX Engineer
 
-**Bridging design and code**
+**UX Engineering, from idea to interface**
 
-Hi, I'm Steph. I build interactive design systems and UI components that bridge design and code, focusing on usability, accessibility, and maintainability.  I aim to create systems that are not only functional but also adaptable and easy to scale. 
+Hi, I’m Steph. My background spans design, front-end engineering, and building design systems. I’m driven by curiosity and a desire to make digital experiences more accessible, maintainable, and genuinely useful.
 
-I enjoy exploring new tools, refining workflows, and finding ways to turn design ideas into polished, working interfaces.
+I care about the details, how a component feels, how a system scales, and how design becomes real in the browser. My approach is shaped by real-world constraints, honest feedback, and a belief that great UX is as much about process as it is about polish.
+
+**What I do**
+- Build design systems and reusable component libraries
+- Create accessible, responsive UI with strong UX polish
+- Document patterns, decisions, and implementation details
+- Bridge design intent and engineering execution
+
+**How I work**
+- Start with clarity, goals, constraints, and edge cases
+- Build iteratively in small, testable slices
+- Document as I go, from sketches to shipped code
+- Test and refine components in Storybook
+
+**Guiding Principles**
+- Polish UX details and handle edge cases thoughtfully
+- Turn design systems into practical, maintainable code
+- Document and share patterns, decisions, and lessons learned
+- Let progress and learning drive the work
 
 <br />
 
@@ -20,10 +38,10 @@ I enjoy exploring new tools, refining workflows, and finding ways to turn design
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
 
-<br />
+<hr />
 
 ## Space Shooter
 
 ![My GitHub Game](game.gif)
 
-[Add to your profile](https://github.com/czl9707/gh-space-shooter)
+[Add a Space Shooter your profile](https://github.com/czl9707/gh-space-shooter)
