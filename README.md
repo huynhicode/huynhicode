@@ -1,7 +1,10 @@
-UX Engineer — I turn ambiguity into interfaces.
+# Steph Huynh
 
-Most recently: Founding UX Engineer at Mermaid Chart — built the UI foundation, design system (23 components), docs site, and community Discord from scratch. Contributed to the Mermaid.js open-source project.
+UX Engineer working at the intersection of design and engineering.
 
-Stack: TypeScript · React · Svelte · Tailwind CSS · shadcn · Storybook · Figma
+I help take products from zero to one — building design systems, UI foundations, and the connective tissue between design and engineering.
 
-→ huynhicode.dev
+→ [huynhicode.dev](https://huynhicode.dev)
+→ [LinkedIn](https://linkedin.com/in/huynhicode)
+
+Currently open to remote roles.
