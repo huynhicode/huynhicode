@@ -1,10 +1,13 @@
-# Steph Huynh
+# Steph Huynh — UX Engineer
 
-UX Engineer working at the intersection of design and engineering.
+Design systems, component libraries, and developer experience for developer-facing products.
 
-I help take products from zero to one — building design systems, UI foundations, and the connective tissue between design and engineering.
+Most recently: Founding UX Engineer at Mermaid Chart (now Mermaid.ai) — built the UI foundation, a 23-component design system, Storybook reference, documentation site, and community Discord from scratch as the first and only UX Engineer hire. Contributed to the Mermaid.js open-source project.
 
-→ [huynhicode.dev](https://huynhicode.dev)
-→ [LinkedIn](https://linkedin.com/in/huynhicode)
+**Currently:** Open to remote UX Engineer roles.
 
-Currently open to remote roles.
+**Stack:** TypeScript · React · Svelte · SvelteKit · Tailwind CSS · ShadCN · Storybook · Figma
+
+**Focus:** design systems · developer experience · accessible UI · documentation · design ↔ engineering
+
+→ [huynhicode.dev](https://www.huynhicode.dev) · [Storybook](https://huynhicode-storybook.vercel.app) · [LinkedIn](https://www.linkedin.com/in/huynhicode/) · [Notes](https://www.huynhicode.dev/notes)
