@@ -4,7 +4,7 @@ Design systems, component libraries, and developer experience for developer-faci
 
 Most recently: Founding UX Engineer at Mermaid Chart (now Mermaid.ai) — built the UI foundation, a 23-component design system, Storybook reference, documentation site, and community Discord from scratch as the first and only UX Engineer hire. Contributed to the Mermaid.js open-source project.
 
-**Currently:** Open to remote UX Engineer roles.
+**Currently:** Open to remote roles — UX Engineer, Design Engineer, or similar
 
 **Stack:** TypeScript · React · Svelte · SvelteKit · Tailwind CSS · ShadCN · Storybook · Figma
 
